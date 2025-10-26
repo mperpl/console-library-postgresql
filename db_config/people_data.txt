@@ -1,0 +1,24 @@
+jk123456789|Jan|Kowalski|48123456789|To Kill a Mockingbird[]The Hobbit
+az987654321|Anna|Zalewska|48987654321|Pride and Prejudice[]1984
+mp533671186|Michał|Perczak|48533671186|The Hobbit[]The Great Gatsby[]1984
+mp695621005|Magdalena|Perczak|48695621005|Brave New World
+es555444333|Emil|Skowronek|48555444333|Crime and Punishment[]Les Misérables
+kn555666777|Krystyna|Niemiec|48555666777|Moby-Dick
+wb444333222|Wojciech|Bąk|48444333222|War and Peace[]Don Quixote
+zd112233445|Zofia|Dąbrowska|48112233445|The Lord of the Rings[]The Alchemist
+tk556677889|Tomasz|Kamiński|48556677889|Dracula[]Frankenstein
+mr778899665|Marta|Rogowska|48778899665|The Odyssey
+lp223344556|Łukasz|Pawlak|48223344556
+ap334455667|Alicja|Piotrowska|48334455667|The Great Gatsby[]Brave New World
+kg889900112|Krzysztof|Górski|48889900112|The Alchemist[]Crime and Punishment
+js990011223|Justyna|Sikora|48990011223|Dracula[]Frankenstein[]The Hobbit
+bs776655443|Barbara|Szymańska|48776655443|Les Misérables[]Moby-Dick
+kk112255669|Kamil|Kowal|48112255669|The Catcher in the Rye[]1984
+wm445566778|Wiktor|Mazur|48445566778
+mc556677889|Maciej|Czarnecki|48556677889|Pride and Prejudice[]The Great Gatsby
+ag445566778|Agnieszka|Nowak|48445566778|Brave New World[]War and Peace
+kp889900112|Karol|Pietrzak|48889900112|The Catcher in the Rye[]Dracula
+mw990011223|Michał|Wiśniewski|48990011223|The Odyssey[]Moby-Dick
+bs776655111|Barbara|Szymańska|48776655111|Don Quixote[]The Lord of the Rings
+kk112255444|Kamil|Kowal|48112255444|Les Misérables[]Frankenstein
+wm445566999|Wiktor|Mazur|48445566999|To Kill a Mockingbird[]Crime and Punishment
