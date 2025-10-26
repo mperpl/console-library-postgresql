@@ -13,3 +13,5 @@ A simple, console-based application written in Python to manage a library's coll
 * **Database Integration:** Connects to and interacts with a PostgreSQL database using the `psycopg2` library.
 * **User Interface:** A clean, menu-driven command-line interface for easy navigation and interaction.
 * **Data Display:** Functionality to display the entire library catalog or specific book information.
+
+<img width="869" height="831" alt="Przechwytywanie" src="https://github.com/user-attachments/assets/478cd88c-a3c6-43fc-8bd5-a3b95ba09773" />
